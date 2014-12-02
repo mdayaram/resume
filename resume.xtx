@@ -94,9 +94,13 @@ Pen-based application built with C\# and Microsoft.Ink to simulate Dijkstra's al
 \location{Mar 2012 - May 2014 | San Francisco, CA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item blah
-\item blah
-\item blah
+\item Lead developer for platform: a multi-tenant transformation proxy using Go.
+\item Created several build and test tools to ease development and ramp up.
+\item Advocated and wrote engineering interview guidelines.
+\item Worked closely with Operations team for performance testing and enhancements.
+\item Helped transition from a monolithic app server to a services and multi-tenant architecture.
+\item Received consecutive Customer Centric Company Spot Awards.
+\item Organized several events and educational lectures regarding the platform.
 \end{tightemize}
 \sectionsep
 
