@@ -1,7 +1,7 @@
 Resume
 ======
 
-This is the XeLateX source for my resume, shamelessly stolen from
+This is the XeLateX source for my resume, of which the template is shamelessly stolen from
 [Deedy](https://github.com/deedydas/Deedy-Resume).
 
 ## Requirements
