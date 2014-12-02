@@ -96,7 +96,7 @@ Pen-based application built with C\# and Microsoft.Ink to simulate Dijkstra's al
 \begin{tightemize}
 \item Lead developer for platform: a multi-tenant transformation proxy using Go.
 \item Created several build and test tools to ease development and ramp up.
-\item Advocated and wrote engineering interview guidelines.
+\item Advocated for and wrote engineering interview guidelines.
 \item Worked closely with Operations team for performance testing and enhancements.
 \item Helped transition from a monolithic app server to a services and multi-tenant architecture.
 \item Received consecutive Customer Centric Company Spot Awards.
