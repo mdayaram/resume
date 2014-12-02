@@ -1,0 +1,137 @@
+\documentclass[]{resume}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Manoj}{Dayaram}{ \urlstyle{same}\url{http://noj.cc} \\
+\href{mailto:m@noj.cc}{m@noj.cc} | (732) 343-3832
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{Carnegie Mellon}
+\descript{BS in Computer Science}
+\location{Class of 2010 | Pittsburgh, PA}
+Minor in Mathematical Sciences \\
+\location{ GPA: 3.71 }
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links}
+Github:// \href{https://github.com/mdayaram}{\bf mdayaram} \\
+LinkedIn://  \href{https://www.linkedin.com/in/mdayaram}{\bf mdayaram} \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+\location{Strong Experience:}
+Go \textbullet{} Java \textbullet{} C \textbullet{} Ruby \\
+\location{Partial Experience:}
+Python \textbullet{} SQL \textbullet{} C\# \\
+x86/IA32 \textbullet{} x86-64
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.66\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+
+\runsubsection{Salesforce.com}
+\descript{| Software Engineer }
+\location{July 2010 – Feb 2012 | San Francisco, CA}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Product owner and lead programmer for the Production Test Framework.
+\item Enhanced organization-wide Test Failure Management system by automating bug cycles.
+\item Used MAT, jmap and jstack to analyze and solve test framework memory consumption issues.
+\item Migrated test core from Selenium to WebDriver
+\end{tightemize}
+\sectionsep
+
+\runsubsection{MILLEE}
+\descript{| Lead Programmer / Undergraduate Researcher }
+\location{Mar 2009 - May 2010 | Pittsburgh, PA}
+\begin{tightemize}
+\item Used J2ME to develop educational cell phone games in Nokia 3110c for children in underprivileged countries.
+\item Trained 7+ programmers in concepts such as MVC, event driven programming, and game loop.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Carnegie Mellon University}
+\descript{| Teaching Assistant}
+\location{Aug 2007 – Dec 2008 | Pittsburgh, PA}
+\begin{tightemize}
+\item Systems Skills in C (15-123) :: The basics of data structures, algorithms, and memory management in C.
+\item Pen Based Computing (15-397) :: Introductory course to pen based computing using C\# and the Microsoft.Ink package; developed semester-long content and assignments.
+\item Intermediate/Advanced Programming (15-111) :: The basics of OOP, data structures, and algorithms in Java.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Tablet Math System}
+\descript{| Server Side Administrator }
+\location{Jan 2007 - May 2007 | Pittsburgh, PA}
+\begin{tightemize}
+\item Managed the database using SQL queries within C\# and stored procedures.
+\item Provided a web interface with ASP.NET and C\# for teachers to search for student’s work.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{Graph Animator}
+\descript{| Independent Study in HCI}
+\location{Jan 2007 - May 2007 | Pittsburgh, PA}
+\begin{tightemize}
+\item Built a pen-baded app using C\# and Microsoft.Ink to simulate Dijkstra's algorithm with a pen-drawn graph.
+\item Application was presented in 2009 WIPTE Conference
+\item Visit \textbf{\href{http://www.andrew.cmu.edu/user/mdayaram/hci/finalreport.html}{http://www.andrew.cmu.edu/user/mdayaram/hci/finalreport.html}} for details.
+\end{tightemize}
+\sectionsep
+
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
