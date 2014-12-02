@@ -19,7 +19,8 @@ I included a `Makefile` so building is as easy as...
 $ make
 $ make open  # opens pdf using Mac 'open' command
 ```
-
+Alternatively, you can call `make render` which is essentially calling `make`
+and `make open` immediately after.
 
 ## Original Author Notes
 
