@@ -63,6 +63,17 @@ Chocolate Making \& Tasting
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\subsection{Graph Animator}
+\location{Independent Study in HCI}
+Pen-based application built with C\# and Microsoft.Ink to simulate Dijkstra's algorithm on a pen-drawn graph.  Featured in 2009 WIPTTE conference. \\
+\textbf{\href{https://github.com/mdayaram/graph-animator/blob/master/docs/finalreport.md}{https://github.com/mdayaram/graph-animator}} \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN TWO
 %
@@ -128,20 +139,6 @@ Chocolate Making \& Tasting
 \end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PROJECTS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Projects}
-\runsubsection{Graph Animator}
-\descript{| Independent Study in HCI}
-\location{Jan 2007 - May 2007 | Pittsburgh, PA}
-\begin{tightemize}
-\item Built a pen-baded app using C\# and Microsoft.Ink to simulate Dijkstra's algorithm with a pen-drawn graph.
-\item Application was presented in 2009 WIPTE Conference
-\item Visit \textbf{\href{http://www.andrew.cmu.edu/user/mdayaram/hci/finalreport.html}{http://www.andrew.cmu.edu/user/mdayaram/hci/finalreport.html}} for details.
-\end{tightemize}
-\sectionsep
 
 
 \end{minipage}
