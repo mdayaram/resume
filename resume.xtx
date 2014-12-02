@@ -40,25 +40,26 @@ Minor in Mathematical Sciences \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links}
-Github:// \href{https://github.com/mdayaram}{\bf mdayaram} \\
-LinkedIn://  \href{https://www.linkedin.com/in/mdayaram}{\bf mdayaram} \\
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
+
 \subsection{Programming}
 \location{Strong Experience:}
 Go \textbullet{} Java \textbullet{} C \textbullet{} Ruby \\
 \location{Partial Experience:}
 Python \textbullet{} SQL \textbullet{} C\# \\
 x86/IA32 \textbullet{} x86-64
+\sectionsep
+
+\subsection{Miscellaneous}
+\location{Languages:}
+Spanish \\
+\location{Circus Arts:}
+Diabolo \textbullet{} Juggling \textbullet{} Slackline \\
+\location{Culinary:}
+Chocolate Making \& Tasting
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -77,10 +78,20 @@ x86/IA32 \textbullet{} x86-64
 
 \section{Experience}
 
+\runsubsection{Moovweb}
+\descript{| Software Engineer }
+\location{Mar 2012 - May 2014 | San Francisco, CA}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item blah
+\item blah
+\item blah
+\end{tightemize}
+\sectionsep
+
 \runsubsection{Salesforce.com}
 \descript{| Software Engineer }
-\location{July 2010 – Feb 2012 | San Francisco, CA}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\location{Jul 2010 – Feb 2012 | San Francisco, CA}
 \begin{tightemize}
 \item Product owner and lead programmer for the Production Test Framework.
 \item Enhanced organization-wide Test Failure Management system by automating bug cycles.
