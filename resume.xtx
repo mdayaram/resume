@@ -73,6 +73,13 @@ Pen-based application built with C\# and Microsoft.Ink to simulate Dijkstra's al
 \textbf{\href{https://github.com/mdayaram/graph-animator/blob/master/docs/finalreport.md}{https://github.com/mdayaram/graph-animator}} \\
 \sectionsep
 
+\subsection{NojCoin}
+\location{Cryptocurrency}
+The latest in cryptocurrency.  A new system based on a single source of truth
+and sound economic values.
+\textbf{\href{http://noj.co.in}{http://noj.co.in}}
+\sectionsep
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN TWO
@@ -94,8 +101,9 @@ Pen-based application built with C\# and Microsoft.Ink to simulate Dijkstra's al
 \location{Mar 2012 - May 2014 | San Francisco, CA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Lead developer for platform: a multi-tenant transformation proxy using Go.
-\item Created several build and test tools to ease development and ramp up.
+\item Lead developer for Platform: a multi-tenant transformation proxy using Go.
+\item Lead developer for SDK: user development kit mirroring platform for Windows, Mac, and Linux.
+\item Created several build and test tools using Jenkins to ease development and ramp up.
 \item Advocated for and wrote engineering interview guidelines.
 \item Worked closely with Operations team for performance testing and enhancements.
 \item Helped transition from a monolithic app server to a services and multi-tenant architecture.
