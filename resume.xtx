@@ -107,13 +107,11 @@ Social experiment on the effect feature restrictions have on medium culture.
 \location{Mar 2012 - May 2014 | San Francisco, CA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Lead developer for Platform: a multi-tenant transformation proxy using Go.
-\item Lead developer for SDK: user development kit mirroring platform for Windows, Mac, and Linux.
-\item Leveraged Jenkins to create several build and test tools.
-\item Worked closely with Operations team for performance testing and deployment enhancements.
-\item Helped transition from a monolithic app server to a services and multi-tenant server architecture.
-\item Advocated for and wrote engineering interview guidelines.
-\item Received consecutive Customer Centric Company Spot Awards.
+\item Lead developer for Platform and SDK: a multi-tenant transformation proxy using Go.
+\item Transitioned from a server-per-customer model to a multi-tenant server architecture reducing server costs by 3x.
+\item Designed and implemented a multi-platform build system using Jenkins to automate build and test for Windows, OSX, and Linux.
+\item Isolated and fixed several performance bottlenecks running extensive benchmarks on real data.
+\item Advocated and wrote engineering interview guidelines.
 \item Organized several events and educational lectures regarding the platform.
 \end{tightemize}
 \sectionsep
