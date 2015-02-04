@@ -107,7 +107,7 @@ Social experiment on the effect restrictions have on a medium's culture.
 \begin{tightemize}
 \item Lead developer for Platform and SDK: a multi-tenant transformation proxy using Go.
 \item Transitioned from a server-per-customer model to a multi-tenant server architecture reducing server costs by 3x.
-\item Designed and implemented a multi-platform build system using Jenkins to automate build and test for Windows, OSX, and Linux.
+\item Designed and implemented a multi-platform continuous integration system using Jenkins to automate build and test for Windows, OSX, and Linux.
 \item Isolated and fixed several performance bottlenecks running extensive benchmarks on real data.
 \item Advocated and wrote engineering interview guidelines.
 \item Organized several events and educational lectures regarding the platform.
