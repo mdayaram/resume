@@ -73,15 +73,13 @@ Pen-based application built with C\# and Microsoft.Ink to simulate Dijkstra's al
 \textbf{\href{https://github.com/mdayaram/graph-animator/blob/master/docs/finalreport.md}{https://github.com/mdayaram/graph-animator}} \\
 \sectionsep
 
-\subsection{NojCoin}
-\location{Cryptocurrency}
+\subsection{For Fun}
+\location{NojCoin}
 The latest in cryptocurrency.  A new system based on a single source of truth
 and sound economic values.
 \textbf{\href{http://coin.noj.cc}{http://coin.noj.cc}}
-\sectionsep
-
-\subsection{OneTweet}
-\location{Social}
+\break
+\location{OneTweet}
 Social experiment on the effect restrictions have on a medium's culture.
 \textbf{\href{http://onetweet.noj.cc}{http://onetweet.noj.cc}}
 \sectionsep
